@@ -17,7 +17,7 @@
             color: #2c1d11;            /* Marrom escuro para garantir excelente contraste de leitura */
             font-family: 'Georgia', serif; /* Fonte com serifa que transmite tradição/sofisticação */
             margin: 0;                 /* Remove margens padrão do navegador nas bordas da tela */
-            padding: 20px;             /* Cria um espaçamento de segurança nas bordas em telas pequenas */
+            padding: 15px;             /* Cria um espaçamento de segurança nas bordas em telas pequenas */
         }
 
         /* Caixa centralizadora do conteúdo */
