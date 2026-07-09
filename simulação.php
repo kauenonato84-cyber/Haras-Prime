@@ -13,3 +13,7 @@ $valor = $_POST["num_valor";
      $juros = $parcelas + 0.05;
      echo "<h1> Você pagará R$ $valor </h1>"
      }
+     else
+        {
+            
+        }
