@@ -20,6 +20,7 @@
             padding: 15px;             /* Cria um espaçamento de segurança nas bordas em telas pequenas */
         }
 
+        
         /* Caixa centralizadora do conteúdo */
         .container {
             max-width: 600px;          /* Impede que o formulário estique demais em monitores grandes */
