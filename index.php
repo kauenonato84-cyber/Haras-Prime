@@ -115,7 +115,7 @@
 
         <h2>Simulador de Financiamento Equino</h2>
         
-        <form action="processa.php" method="POST">
+        <form action="simulação.php" method="POST">
             
             <div class="form-group">
                 <label for="nome">Nome do Proponente:</label>
