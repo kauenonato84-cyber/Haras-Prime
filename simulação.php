@@ -7,7 +7,7 @@ $valor = $_POST["num_valor"];
 $valor_final = $valor;
 
  if ($parcelas == 1){
-         $valor_final = $valor
+         $valor_final = $valor;
         }
      else if ($parcelas == 12){
          $valor_final = $valor * 1.05;
