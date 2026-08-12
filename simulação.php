@@ -18,3 +18,8 @@ $valor = $_POST["num_valor";
         $juros = $parcelas + 0.12;
         echo "<h1> Você pagará R$ $valor </h1>"
         }
+     else if ($idade >= 18 && $valor >= 30000)
+     {
+     
+      
+      
