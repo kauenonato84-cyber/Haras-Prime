@@ -2,7 +2,7 @@
 
 $parcelas = $_POST["sel_parcelas"];
 $idade = $_POST["num_idade"];
-$valor = $_POST["num_valor";
+$valor = $_POST["num_valor"];
 
 $valor_final = $valor;
 
